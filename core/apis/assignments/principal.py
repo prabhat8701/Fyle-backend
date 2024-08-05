@@ -5,7 +5,7 @@ from core.apis.responses import APIResponse
 from core.models.assignments import Assignment, AssignmentStateEnum
 from sqlalchemy import or_
 from .schema import AssignmentGradeSchema, AssignmentSchema
-
+#final
 principal_assignments_resources = Blueprint('principal_assignments_resources', __name__)
 
 @principal_assignments_resources.route('/assignments', methods=['GET'], strict_slashes=False)
