@@ -1,6 +1,5 @@
 # Fyle Backend Challenge
 
-Submitted by : Yuvraj Padhy
 
 ## Who is this for?
 
