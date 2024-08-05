@@ -14,7 +14,7 @@ We are an extremely transparent organization. Check out our [careers page](https
 
 ## Challenge outline
 
-This challenge involves writing a backend service for a classroom. The challenge is described in detail [here](./Application.md)
+This challenge involves writing a backend service for a classroom. The challenge is described in detail [here](https://github.com/fylein/fyle-interview-intern-backend/blob/main/Application.md)
 
 
 ## What happens next?
